@@ -1,0 +1,13 @@
+{
+"companyName": "NWeber",
+"productName": "11N2_Cl5_labyrinthe2",
+"dataUrl": "Web_11N2_CL5_Laby.data.unityweb",
+"wasmCodeUrl": "Web_11N2_CL5_Laby.wasm.code.unityweb",
+"wasmFrameworkUrl": "Web_11N2_CL5_Laby.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
